@@ -3,7 +3,7 @@ package com.example.sean.test;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class page2 extends AppCompatActivity {
+public class Page2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

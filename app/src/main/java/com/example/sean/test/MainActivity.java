@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                intent.setClass(MainActivity.this  , page2.class);
+                intent.setClass(MainActivity.this  , Page2.class);
                 startActivity(intent);
             }
         });
